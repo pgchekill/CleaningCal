@@ -1,0 +1,156 @@
+[
+  {
+    "Room": "All",
+    "Item": "Consuela management",
+    "Details": "",
+    "Freq": 1,
+    "Fixed": ""
+  },
+  {
+    "Room": "All",
+    "Item": "Management caisse à chat",
+    "Details": "",
+    "Freq": 1,
+    "Fixed": ""
+  },
+  {
+    "Room": "All",
+    "Item": "Sortir déchets",
+    "Details": "",
+    "Freq": 1,
+    "Fixed": ""
+  },
+  {
+    "Room": "Salon",
+    "Item": "Aspirateur canapé",
+    "Details": "",
+    "Freq": 4,
+    "Fixed": ""
+  },
+  {
+    "Room": "Salon",
+    "Item": "Table salon",
+    "Details": "",
+    "Freq": 4,
+    "Fixed": ""
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Surface, évier, plaques",
+    "Details": "",
+    "Freq": 7,
+    "Fixed": ""
+  },
+  {
+    "Room": "Terrasse",
+    "Item": "Cendriers / table + sol",
+    "Details": "",
+    "Freq": 7,
+    "Fixed": ""
+  },
+  {
+    "Room": "Salle de bain",
+    "Item": "Evier / robineterie / baignoire / toilettes",
+    "Details": "",
+    "Freq": 15,
+    "Fixed": ""
+  },
+  {
+    "Room": "Salon",
+    "Item": "Meuble / TV / HIFI / Tele / Tourne disque",
+    "Details": "",
+    "Freq": 20,
+    "Fixed": ""
+  },
+  {
+    "Room": "All",
+    "Item": "Surface plaquards",
+    "Details": "",
+    "Freq": 30,
+    "Fixed": ""
+  },
+  {
+    "Room": "Salon",
+    "Item": "Aspirer arbre à chat",
+    "Details": "",
+    "Freq": 30,
+    "Fixed": ""
+  },
+  {
+    "Room": "Chambres",
+    "Item": "Poussière",
+    "Details": "",
+    "Freq": 30,
+    "Fixed": ""
+  },
+  {
+    "Room": "All",
+    "Item": "Récuration",
+    "Details": "",
+    "Freq": 30,
+    "Fixed": ""
+  },
+  {
+    "Room": "All",
+    "Item": "Poussière tableau / cadre de porte / incassesible",
+    "Details": "",
+    "Freq": 45,
+    "Fixed": ""
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Frigo",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": ""
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Four",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": "Philippe"
+  },
+  {
+    "Room": "Salon",
+    "Item": "Vitres intérieures / extérieures",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": "Philippe"
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Poussière bilo",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": "Philippe"
+  },
+  {
+    "Room": "Chambres",
+    "Item": "Vitres intérieures / extérieures + miroir",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": "Diane"
+  },
+  {
+    "Room": "All",
+    "Item": "Interupteurs + surface portes/cadres",
+    "Details": "",
+    "Freq": 60,
+    "Fixed": ""
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Détartrage machine à café",
+    "Details": "",
+    "Freq": 90,
+    "Fixed": "Philippe"
+  },
+  {
+    "Room": "Cuisine",
+    "Item": "Lave vaiselle filtre + joint + sel",
+    "Details": "",
+    "Freq": 90,
+    "Fixed": "Philippe"
+  }
+]
